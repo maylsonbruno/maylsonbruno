@@ -1,13 +1,8 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
-    <br>
+
+    
 <!--Snake-->
-<div align="center">
-<img src="https://raw.githubusercontent.com/maylsonbruno/maylsonbruno/output/snake.svg" alt="Snake animation" />
-</div>
+
 
 <!-- Presentation -->
 <p>
