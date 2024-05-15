@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Maylson! am Developer C#.net Dynamics 365.
+  Hi 👋, I'm Maylson! Developer C#.net Dynamics 365.
 </p>
 
 <!-- Dropdown -->
