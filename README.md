@@ -20,7 +20,7 @@ Tenho conhecimentos em JavaScript, HTML, CSS e C#.NET, o que me permite colabora
 
 Meu objetivo é atuar como Analista de Teste QA, utilizando as melhores práticas, ferramentas e metodologias para antecipar problemas, otimizar processos e agregar valor ao produto final.
 
-Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer e a fazer a diferença no mundo da tecnologia. \o/
+Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer e a fazer a diferença no mundo da tecnologia. 
 </details>
 
 <!-- Links -->
