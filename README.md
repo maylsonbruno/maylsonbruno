@@ -12,6 +12,7 @@
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Sobre minha Carreira </summary>
+  
     
 Sou apaixonado por garantir a qualidade e a eficiência de sistemas e aplicações. Com experiência sólida em testes de API, testes automatizados com Cypress, testes de regressão e testes funcionais, estou comprometido(a) em entregar soluções que elevem a experiência do usuário e assegurem a estabilidade dos projetos.
 
