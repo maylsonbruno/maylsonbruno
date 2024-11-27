@@ -24,7 +24,7 @@ Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer e
 </details>
 
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/maylson-fernandes/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maylson-fernandes/)
 
 <!-- GithubStats -->
 ![Maylsonbruno GitHub stats](https://github-readme-stats.vercel.app/api?username=maylsonbruno&show_icons=true&theme=gotham)
