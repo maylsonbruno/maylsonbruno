@@ -6,20 +6,24 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Maylson! Developer C#.net Dynamics 365.
+  Olá 👋, sou QA engineer
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 🚀 Minha Carreira:
-- I have always been passionate about technology and how through it we can change our reality 
-- I started my career as a Trainee Developer at 4Results with Microsoft DynamicsFO ERP.
-- I have a degree in Systems Analysis and Development from Estácio de Sá University. \o/
+Sou apaixonado por garantir a qualidade e a eficiência de sistemas e aplicações. Com experiência sólida em testes de API, testes automatizados com Cypress, testes de regressão e testes funcionais, estou comprometido(a) em entregar soluções que elevem a experiência do usuário e assegurem a estabilidade dos projetos.
+
+Tenho conhecimentos em JavaScript, HTML, CSS e C#.NET, o que me permite colaborar diretamente com equipes de desenvolvimento, entender os desafios técnicos e contribuir para a criação de sistemas robustos e bem testados.
+
+Meu objetivo é atuar como Analista de Teste QA, utilizando as melhores práticas, ferramentas e metodologias para antecipar problemas, otimizar processos e agregar valor ao produto final.
+
+Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer e a fazer a diferença no mundo da tecnologia. \o/
 </details>
 
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maylsonbruno/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/maylson-fernandes/))
 
 <!-- GithubStats -->
 ![Maylsonbruno GitHub stats](https://github-readme-stats.vercel.app/api?username=maylsonbruno&show_icons=true&theme=gotham)
