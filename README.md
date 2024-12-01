@@ -32,7 +32,7 @@ Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer e
 <!-- Portfolio -->
 ## Portfolio:
 
- - [JavaScrpit- Testes Automation with CYPRESS]( https://github.com/maylsonbruno/teste-end2end-cypress )
+ - [JavaScrpit- Testes end-2-end]( https://github.com/maylsonbruno/teste-end2end-cypress )
  - [C#.Net- Aplication Sales](https://github.com/maylsonbruno/SalesWeb)
  - [C#.Net- APICatalogoMinimalApi](https://github.com/maylsonbruno/ApiCatalogoMinimal.git)
  - [C#.Net- CarRent](https://github.com/maylsonbruno/CarRent.git)
