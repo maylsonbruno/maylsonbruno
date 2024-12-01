@@ -31,11 +31,13 @@ Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer e
 
 <!-- Portfolio -->
 ## Portfolio:
-- [C#.Net- Aplication Sales](https://github.com/maylsonbruno/SalesWeb)
-- [C#.Net- APICatalogoMinimalApi](https://github.com/maylsonbruno/ApiCatalogoMinimal.git)
-- [C#.Net- CarRent](https://github.com/maylsonbruno/CarRent.git)
-- [C#.Net - Custom in Dynamics365 CRM](https://github.com/maylsonbruno/Customiza-es_DynamicsCRM)
-- [Javascript - Age Validator](https://github.com/maylsonbruno/Validador_de_idades)
+
+ - [JavaScrpit- Testes Automation with CYPRESS]( https://github.com/maylsonbruno/teste-end2end-cypress )
+ - [C#.Net- Aplication Sales](https://github.com/maylsonbruno/SalesWeb)
+ - [C#.Net- APICatalogoMinimalApi](https://github.com/maylsonbruno/ApiCatalogoMinimal.git)
+ - [C#.Net- CarRent](https://github.com/maylsonbruno/CarRent.git)
+ - [C#.Net - Custom in Dynamics365 CRM](https://github.com/maylsonbruno/Customiza-es_DynamicsCRM)
+ - [Javascript - Age Validator](https://github.com/maylsonbruno/Validador_de_idades)
 
 
 <!-- GIF -->
