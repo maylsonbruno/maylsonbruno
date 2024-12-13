@@ -32,9 +32,9 @@ Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer e
 <!-- Portfolio -->
 ## Portfolio:
 
- - [JavaScrpit- Testes end-2-end]( https://github.com/maylsonbruno/teste-end2end-cypress )
- - [TypeScript- Heroes](https://github.com/maylsonbruno/heroes-e2e)
- - [C#.Net- APICatalogoMinimalApi](https://github.com/maylsonbruno/ApiCatalogoMinimal.git)
+ - [Javascrpit- Tests E2E]( https://github.com/maylsonbruno/teste-end2end-cypress )
+ - [TypeScript- Heroes Tests E2E](https://github.com/maylsonbruno/heroes-e2e)
+ - [Javascript,Typescprit - Real Word Tests E2E](https://github.com/maylsonbruno/realword-app-e2e).
  - [C#.Net- CarRent](https://github.com/maylsonbruno/CarRent.git)
  - [C#.Net - Custom in Dynamics365 CRM](https://github.com/maylsonbruno/Customiza-es_DynamicsCRM)
  - [Javascript - Age Validator](https://github.com/maylsonbruno/Validador_de_idades)
