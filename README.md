@@ -33,7 +33,7 @@ Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer e
 ## Portfolio:
 
  - [JavaScrpit- Testes end-2-end]( https://github.com/maylsonbruno/teste-end2end-cypress )
- - [C#.Net- Aplication Sales](https://github.com/maylsonbruno/SalesWeb)
+ - [TypeScript- Heroes](https://github.com/maylsonbruno/heroes-e2e)
  - [C#.Net- APICatalogoMinimalApi](https://github.com/maylsonbruno/ApiCatalogoMinimal.git)
  - [C#.Net- CarRent](https://github.com/maylsonbruno/CarRent.git)
  - [C#.Net - Custom in Dynamics365 CRM](https://github.com/maylsonbruno/Customiza-es_DynamicsCRM)
