@@ -35,6 +35,7 @@ Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer e
  - [Javascrpit- Tests E2E]( https://github.com/maylsonbruno/teste-end2end-cypress )
  - [TypeScript- Heroes Tests E2E](https://github.com/maylsonbruno/heroes-e2e)
  - [Javascript,Typescprit - Real Word Tests E2E](https://github.com/maylsonbruno/realword-app-e2e).
+ - [Javascript- Tests automation Mobile E2E in Store](https://github.com/maylsonbruno/teste-mobile-e2e).
  - [C#.Net- CarRent](https://github.com/maylsonbruno/CarRent.git)
  - [C#.Net - Custom in Dynamics365 CRM](https://github.com/maylsonbruno/Customiza-es_DynamicsCRM)
  - [Javascript - Age Validator](https://github.com/maylsonbruno/Validador_de_idades)
