@@ -38,9 +38,8 @@ Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer e
  - [Javascript- Tests automation Mobile E2E in Store](https://github.com/maylsonbruno/teste-mobile-e2e).
  - [Python-Robot Framework](https://github.com/maylsonbruno/projeto-robot).
  - [JAVA-Selenium - Teste em sistema bancario](https://github.com/maylsonbruno/teste-sistemabancario-selenium/tree/master)
- - [C#.Net- CarRent](https://github.com/maylsonbruno/CarRent.git)
- - [C#.Net - Custom in Dynamics365 CRM](https://github.com/maylsonbruno/Customiza-es_DynamicsCRM)
- - [Javascript - Age Validator](https://github.com/maylsonbruno/Validador_de_idades)
+ - [C#.Net- Aplicação de venda de carros](https://github.com/maylsonbruno/CarRent.git)
+ - [Javascript - Verificação de idade](https://github.com/maylsonbruno/Validador_de_idades)
 
 
 <!-- GIF -->
